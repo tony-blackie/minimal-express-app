@@ -22,4 +22,4 @@ Express.static command will serve you the index.html automatically (you'll see t
 To go to the second page paste following url: localhost:3000/hello </br>
 To get the json push the button. </br>
 
-##### Cheers! ##### 
+Cheers! 
