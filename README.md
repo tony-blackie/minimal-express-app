@@ -1,8 +1,8 @@
-Minimal express app.
+## Minimal express app ##
 
-It was created to:
-1. show how to make ajax request for json data
-2. show how to create 2 page app with express
+#### It was created to: ####
+1. show how to make ajax request for json data </br>
+2. show how to create 2 page app with express </br>
 
 Installation:
 
